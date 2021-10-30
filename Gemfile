@@ -8,5 +8,6 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-gist"
   gem "jekyll-feed"
-  gem "jekyll-minima"
+  gen "jekyll-seo-tag"
+  gem "minima"
 end
