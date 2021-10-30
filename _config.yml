@@ -1,5 +1,5 @@
-# theme: minima
-remote-theme: jekyll/minima@v2.5.1
+theme: minima
+# remote-theme: jekyll/minima@v2.5.1
 
 title: "minima test"
 
@@ -17,4 +17,3 @@ plugins:
  - jekyll-feed
  - jekyll-seo-tag
  - jekyll-minima
- - jekyll-remote-theme 
