@@ -12,6 +12,5 @@ title: "minima test"
     # youtube: jekyll
  
 plugins:
- - jekyll-minima
  - jekyll-feed
  - jekyll-seo-tag
