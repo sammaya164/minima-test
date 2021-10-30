@@ -1,7 +1,9 @@
-# theme: minima
+theme: minima
 # remote-theme: jekyll/minima@v2.5.1
 
 title: "minima test"
+
+minima:
   skin: solarized-dark # classic,dark,solarized,solarized-dark
   # date_format: "%b %-d, %Y"
   social_links:
