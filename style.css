@@ -15,7 +15,7 @@ blockquote i,blockquote em{font-style:normal}
 */
 pre,code{font-family:"Menlo","Inconsolata","Consolas","Roboto Mono","Ubuntu Mono","Liberation Mono","Courier New",monospace;font-size:0.9375em;border:1px solid #2c4d56;border-radius:3px;background-color:#073642}
 code{padding:1px 5px}
-pre{padding:8px 12px;overflow-x:auto}
+pre{padding:8px 12px;overflow-x:scroll}
 pre>code{border:0;padding-right:0;padding-left:0}
 
 /*
