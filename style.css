@@ -20,7 +20,7 @@ code{padding:1px 5px}
 pre{padding:8px 12px;overflow-x:scroll}
 pre>code{border:0;padding-right:0;padding-left:0}
 
-/*
+
 .wrapper{max-width:calc(800px - (30px));margin-right:auto;margin-left:auto;padding-right:15px;padding-left:15px}
 @media screen and (min-width: 800px){.wrapper{max-width:calc(800px - (30px * 2));padding-right:30px;padding-left:30px}}
 .wrapper:after{content:"";display:table;clear:both}
@@ -40,4 +40,4 @@ table{margin-bottom:30px;width:100%;text-align:left;color:#839496;border-collaps
 .pagination li div.pager-edge{color:#2c4d56;border:1px dashed}
 
 @media screen and (min-width: 800px){.one-half{width:calc(50% - (30px / 2))}}
-*/
+
