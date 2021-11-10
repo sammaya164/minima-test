@@ -1,6 +1,6 @@
 html{font-size:16px}
 body,h1,h2,h3,h4,h5,h6,p,blockquote,pre,hr,dl,dd,ol,ul,figure{margin:0;padding:0}
-
+/*
 body{font:400 16px/1.5 -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI","Segoe UI Symbol","Segoe UI Emoji","Apple Color Emoji",Roboto,Helvetica,Arial,sans-serif;color:#93a1a1;background-color:#002b36;-webkit-text-size-adjust:100%;-webkit-font-feature-settings:"kern" 1;-moz-font-feature-settings:"kern" 1;-o-font-feature-settings:"kern" 1;font-feature-settings:"kern" 1;font-kerning:normal;display:flex;min-height:100vh;flex-direction:column;overflow-wrap:break-word}
 h1,h2,h3,h4,h5,h6,p,blockquote,pre,ul,ol,dl,figure,.highlight{margin-bottom:15px}
 hr{margin-top:30px;margin-bottom:30px}
@@ -10,6 +10,7 @@ figure>img{display:block}
 figcaption{font-size:14px}ul,ol{margin-left:30px}
 li>ul,li>ol{margin-bottom:0}
 h1,h2,h3,h4,h5,h6{font-weight:400}
+*/
 
 /*
 a{color:#268bd2;text-decoration:none}a:visited{color:#5590b4}a:hover{color:#839496;text-decoration:underline}.social-media-list a:hover,.pagination a:hover{text-decoration:none}.social-media-list a:hover .username,.pagination a:hover .username{text-decoration:underline}blockquote{color:#586e75;border-left:4px solid #2c4d56;padding-left:15px;font-size:1.125rem;font-style:italic}blockquote>:last-child{margin-bottom:0}
