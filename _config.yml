@@ -4,7 +4,7 @@ theme: minima
 title: "minima test"
 
 minima:
-  skin: solarized-dark # classic,dark,solarized,solarized-dark
+  skin: dark # classic,dark,solarized,solarized-dark
   # date_format: "%b %-d, %Y"
   social_links:
     # twitter: jekyllrb
