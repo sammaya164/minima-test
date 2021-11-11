@@ -1,7 +1,9 @@
-theme: minima
+# theme: minima
 # remote-theme: jekyll/minima@v2.5.1
 
 title: "minima test"
+
+lang: ja
 
 minima:
   skin: dark # classic,dark,solarized,solarized-dark
@@ -14,12 +16,11 @@ minima:
     # youtube: jekyll
  
 header_pages:
- - test.html
+ - about.md
 
 permalink: /:title/
 
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
- - jekyll
- - minima
+
