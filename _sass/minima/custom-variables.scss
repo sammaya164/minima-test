@@ -1,1 +1,6 @@
 // Placeholder to allow overriding predefined variables smoothly.
+.highlight {
+  .cm    { color: #309030; font-style: italic } // Comment.Multiline
+  .cp    { color: #808080; font-weight: bold } // Comment.Preproc
+  .c1    { color: #808080; font-style: italic } // Comment.Single
+}
