@@ -1,5 +1,5 @@
-function hello() = {
+function hello() {
   alert("Hello!");
 };
 
-document.getElementById("button1").addEventListener('click', hello(), false);
+//document.getElementById("button1").addEventListener('click', hello(), false);
