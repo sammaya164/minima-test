@@ -1,4 +1,4 @@
-document.getElementById('button1').onclck = function
+document.getElementById('button1').onclck = function()
 {
 alert("Hello!");
 let canvas = document.getElementById('main_canvas');
