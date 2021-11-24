@@ -16,10 +16,8 @@ minima:
     # youtube: jekyll
  
 header_pages:
- - title: "さんま屋"
-   url: "/"
- - title: "VBScriptさんま屋"
-   url: "/vbscript"
+ - /indx.html
+ - /vbscript/index.html
 
 permalink: /:title/
 
