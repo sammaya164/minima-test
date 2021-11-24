@@ -16,7 +16,7 @@ minima:
     # youtube: jekyll
  
 header_pages:
- - /indx.html
+ - /index.html
  - /vbscript/index.html
 
 permalink: /:title/
