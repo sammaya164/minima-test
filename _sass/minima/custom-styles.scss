@@ -1,10 +1,10 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
 pre{overflow-wrap: normal}
-.page__hero{position:relative;margin-bottom:2em;clear:both;-webkit-animation:intro 0.3s both;animation:intro 0.3s both;-webkit-animation-delay:0.25s;animation-delay:0.25s}
-.page__hero::after{clear:both;content:"";display:table}
-.page__hero--overlay{position:relative;margin-bottom:2em;padding:3em 0;clear:both;background-size:cover;background-repeat:no-repeat;background-position:center;-webkit-animation:intro 0.3s both;animation:intro 0.3s both;-webkit-animation-delay:0.25s;animation-delay:0.25s}
-.page__hero--overlay::after{clear:both;content:"";display:table}
+//.page__hero{position:relative;margin-bottom:2em;clear:both;} //-webkit-animation:intro 0.3s both;animation:intro 0.3s both;-webkit-animation-delay:0.25s;animation-delay:0.25s}
+// .page__hero::after{clear:both;content:"";display:table}
+.page__hero--overlay{position:relative;margin-bottom:2em;padding:3em 0;clear:both;background-size:cover;background-repeat:no-repeat;background-position:center;} //-webkit-animation:intro 0.3s both;animation:intro 0.3s both;-webkit-animation-delay:0.25s;animation-delay:0.25s}
+//.page__hero--overlay::after{clear:both;content:"";display:table}
 .page__hero--overlay a{color:#fff}
 .page__hero--overlay .wrapper{padding-left:1em;padding-right:1em}@media (min-width: 80em){.page__hero--overlay .wrapper{max-width:1280px}}
 .page__hero--overlay .page__title,.page__hero--overlay .page__meta,.page__hero--overlay .comment__date,.page__hero--overlay .page__lead,.page__hero--overlay .btn{color:#fff;text-shadow:1px 1px 4px rgba(0,0,0,0.5)}
